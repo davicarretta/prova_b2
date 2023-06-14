@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(223, 173, 230);
+    color: black;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 40px;
+    font-size: 30px;
+    border-bottom: solid 2px black;
+}
+
+
+button {
+    padding: 5px;
+}
+
+button#fatorial2 {
+    margin-top: 10px;
+}
+
+button#primos2 {
+    margin-top: 10px;
+}
+
+div#numerosprimos {
+    width: 600px;
+}
+
+h4 {
+    width: 500px;
+}
+
+div#quadradoperfeito {
+    margin-bottom: 50px;
+}
